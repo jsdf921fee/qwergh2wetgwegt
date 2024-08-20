@@ -51,7 +51,7 @@ local Button1 = Tab1:NewButton("AIM-BOT", function()
     print("Sucess Criminal AIMBOT")
 end)
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/jsdf921fee/v2asuiodfy92e9f/main/v2s9a8f9weuiqfe"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jsdf921fee/qwegwqegqweg/main/v2ojiafoijsdwef"))()
 
 local Label1 = Tab1:NewLabel("The ESP marks all the enemys in the map!", "left")--"left", "center", "right"
 
