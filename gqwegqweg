@@ -30,15 +30,13 @@ local Label1 = Tab1:NewLabel("Aimbot is a function to make your aim go directly 
 
 local Button1 = Tab1:NewButton("AIM-BOT", function()
     print("Sucess Police AIMBOT")
-end)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/jsdf921fee/v1df9wuief/main/v1dkfhiuqwefg"))()
+end)loadstring(game:HttpGet("https://raw.githubusercontent.com/jsdf921fee/v1df9wuief/main/v1dkfhiuqwefg"))()
 
 local Label1 = Tab1:NewLabel("The ESP marks all the enemys in the map!", "left")--"left", "center", "right"
 
 local Button1 = Tab1:NewButton("ESP", function()
     print("Sucess Police ESP")
-end)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/jsdf921fee/qwegqweg/main/v1asdfasdg1q"))()
+end)loadstring(game:HttpGet("https://raw.githubusercontent.com/jsdf921fee/qwegqweg/main/v1asdfasdg1q"))()
 
 
 local Tab1 = Init:NewTab("Criminal!")
@@ -49,17 +47,13 @@ local Label1 = Tab1:NewLabel("Aimbot is a function to make your aim go directly 
 
 local Button1 = Tab1:NewButton("AIM-BOT", function()
     print("Sucess Criminal AIMBOT")
-end)
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/jsdf921fee/qwegwqegqweg/main/v2ojiafoijsdwef"))()
+end)loadstring(game:HttpGet("https://raw.githubusercontent.com/jsdf921fee/qwegwqegqweg/main/v2ojiafoijsdwef"))()
 
 local Label1 = Tab1:NewLabel("The ESP marks all the enemys in the map!", "left")--"left", "center", "right"
 
 local Button1 = Tab1:NewButton("ESP", function()
     print("Sucess Criminal ESP")
-end)
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/jsdf921fee/v2ajklhuifsiuhaswf/main/v2sflkwqhijekge"))()
+end)loadstring(game:HttpGet("https://raw.githubusercontent.com/jsdf921fee/v2ajklhuifsiuhaswf/main/v2sflkwqhijekge"))()
 
 
 
